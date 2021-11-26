@@ -1,6 +1,8 @@
 
 ![Graphic e Web Developer](https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=90&h=500)
 
+
+
 ### Hi there 👋, I'm Eugenio
 Graphic e Web Developer
 
@@ -17,17 +19,21 @@ This leads me every day to push myself further and never give up.
 Keep practicing even just writing a meager line of code a day.
 
 ### Skills:
-* ✍ HTML
-* 🖌 CSS
-* 💻 JAVASCRIPT
-
-
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 
 
 
 
 - 🔭 I’m currently working on Javascript Projects 
 - 🌱 I’m currently learning Javascript 
+
+### Get in Touch:
+<a href="mailto:graphicd.eugenio@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail.png" alt="email"/></a>
+<a href="https://www.facebook.com/EugenioVDesigner"><img src="https://img.icons8.com/color/40/000000/facebook.png" alt="facebook"/></a>
+<a href="https://www.instagram.com/zinnajofficial"><img src="https://img.icons8.com/color/40/000000/instagram-new.png" alt="instagram"/></a>
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/EugenioDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/eugeniomarino/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/zinnajofficial/)  
