@@ -6,7 +6,7 @@
 ### Hi there 👋, I'm Eugenio
 Graphic e Web Developer
 
-### Who Am I 
+### :book: Who Am I 
 I am a sociable and dynamic person.
 My background started with a passion for graphics and in particular for brand design.
 Later my studies moved towards client-side web development.
@@ -27,7 +27,7 @@ Keep practicing even just writing a meager line of code a day.
 - 🔭 I’m currently working on Javascript Projects 
 - 🌱 I’m currently learning Javascript 
 
-### Get in Touch:
+### 📫 Get in Touch:
 <a href="mailto:graphicd.eugenio@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail.png" alt="email"/></a>
 <a href="https://www.facebook.com/EugenioVDesigner"><img src="https://img.icons8.com/color/40/000000/facebook.png" alt="facebook"/></a>
 <a href="https://www.instagram.com/zinnajofficial"><img src="https://img.icons8.com/color/40/000000/instagram-new.png" alt="instagram"/></a>
