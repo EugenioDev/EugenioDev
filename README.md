@@ -23,9 +23,7 @@ Keep practicing even just writing a meager line of code a day.
 
 
 ### I'm currently learning:
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
-<img src="https://img.shields.io/badge/-React-000?logo=React" alt="React logo" title="React" height="25" />
-https://img.shields.io/badge/-React-000?&logo=React
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /> <img src="https://img.shields.io/badge/-React-000?logo=React" alt="React logo" title="React" height="25" />
 
 
 
